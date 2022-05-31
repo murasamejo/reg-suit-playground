@@ -1,0 +1,8 @@
+{
+  "name": "reg-suit-playground",
+  "version": "1.0.0",
+  "devDependencies": {
+    "reg-suit": "^0.11.1"
+  },
+  "repository": "https://github.com/murasamejo/reg-suit-playground.git"
+}
