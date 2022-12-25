@@ -2,6 +2,7 @@
   "name": "reg-suit-playground",
   "version": "1.0.0",
   "devDependencies": {
+    "reg-keygen-git-hash-plugin": "^0.12.1",
     "reg-suit": "0.12.1"
   },
   "repository": "https://github.com/murasamejo/reg-suit-playground.git"
